@@ -58,7 +58,7 @@ export const EXPERIENCES = [
 // ];
 
 export const CONTACT = {
-  address: "Satna, Madhya Pradesh 48566",
+  address: "Satna, Madhya Pradesh, 485666",
   phoneNo: "+91 9685907435",
   email: "Sharmanarendra417@gmail.com",
 };
